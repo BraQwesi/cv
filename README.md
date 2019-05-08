@@ -1,7 +1,7 @@
 # cv
 TRACKING MY CV
 
-Adam Nurudini 
+Adam Nurudini (BraQwesi)
 
 *Security Researcher
 *Penetration tester
